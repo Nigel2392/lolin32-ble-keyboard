@@ -18,3 +18,5 @@ The built-in LED is turned on when the device is connected and turned off when i
 
 Three separate LED's are turned on when the corresponding button is pressed:
 i.e. `a` button turns on the left LED, `b` button turns on the middle LED and `c` button turns on the right LED.
+
+(In reality, there are three LEDs connected in serial for each one on the diagram - I don't have any resistors)
